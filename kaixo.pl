@@ -1,4 +1,6 @@
 use 5.010;
 use strict;
 use warnings;
-say "Kaixo";
+say "zein da zure izena?";
+my $name=<STDIN>;
+chomp $name;
